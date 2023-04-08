@@ -1,7 +1,0 @@
-$dokka.format:jekyll
-$dokka.linkExtension:html
-$dokka.location:arrow.kindedj$fromArrow(arrow.Kind((arrow.Kind((arrow.kindedj.ForConvert, arrow.kindedj.fromArrow.F)), arrow.kindedj.fromArrow.A)))arrow.kindedj/arrow.-kind/from-arrow.html
-$dokka.location:arrow.kindedj$fromKindedJ(io.kindedj.Hk((arrow.kindedj.fromKindedJ.F, arrow.kindedj.fromKindedJ.A)))arrow.kindedj/io.kindedj.-hk/from-kinded-j.html
-$dokka.location:arrow.kindedj$toArrow(io.kindedj.Hk((io.kindedj.Hk((arrow.kindedj.ForConvert, arrow.kindedj.toArrow.F)), arrow.kindedj.toArrow.A)))arrow.kindedj/io.kindedj.-hk/to-arrow.html
-$dokka.location:arrow.kindedj$toKindedJ(arrow.Kind((arrow.kindedj.toKindedJ.F, arrow.kindedj.toKindedJ.A)))arrow.kindedj/arrow.-kind/to-kinded-j.html
-arrow.kindedj

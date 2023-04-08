@@ -1,9 +1,0 @@
-$dokka.format:jekyll
-$dokka.linkExtension:html
-$dokka.location:arrow.recursion$hylo(arrow.typeclasses.Functor((arrow.recursion.hylo.F)), kotlin.Function1((arrow.Kind((arrow.recursion.hylo.F, arrow.core.Eval((arrow.recursion.hylo.B)))), )), kotlin.Function1((arrow.recursion.hylo.A, arrow.Kind((arrow.recursion.hylo.F, )))), arrow.recursion.hylo.A)arrow.recursion/arrow.typeclasses.-functor/hylo.html
-$dokka.location:arrow.recursion.data$fix(arrow.Kind((arrow.recursion.data.ForFix, arrow.recursion.data.fix.A)))arrow.recursion.data/arrow.-kind/fix.html
-$dokka.location:arrow.recursion.data$fix(arrow.Kind((arrow.recursion.data.ForMu, arrow.recursion.data.fix.F)))arrow.recursion.data/arrow.-kind/fix.html
-$dokka.location:arrow.recursion.data$fix(arrow.Kind((arrow.recursion.data.ForNu, arrow.recursion.data.fix.F)))arrow.recursion.data/arrow.-kind/fix.html
-arrow.recursion
-arrow.recursion.data
-arrow.recursion.typeclasses

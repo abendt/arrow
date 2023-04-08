@@ -1,9 +1,0 @@
----
-title: Tuple8Instances_Tuple8EqInstanceFactory.create - arrow-dagger
----
-
-[arrow-dagger](../../index.html) / [arrow.dagger.instances](../index.html) / [Tuple8Instances_Tuple8EqInstanceFactory](index.html) / [create](./create.html)
-
-# create
-
-`static fun <A : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, B : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, C : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, D : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, E : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, F : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, G : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, H : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`> create(module: `[`Tuple8Instances`](../-tuple8-instances/index.html)`<`[`A`](create.html#A)`, `[`B`](create.html#B)`, `[`C`](create.html#C)`, `[`D`](create.html#D)`, `[`E`](create.html#E)`, `[`F`](create.html#F)`, `[`G`](create.html#G)`, `[`H`](create.html#H)`>, evProvider: Provider<`[`DaggerTuple8EqInstance`](../-dagger-tuple8-eq-instance/index.html)`<`[`A`](create.html#A)`, `[`B`](create.html#B)`, `[`C`](create.html#C)`, `[`D`](create.html#D)`, `[`E`](create.html#E)`, `[`F`](create.html#F)`, `[`G`](create.html#G)`, `[`H`](create.html#H)`>>): `[`Tuple8Instances_Tuple8EqInstanceFactory`](index.html)`<`[`A`](create.html#A)`, `[`B`](create.html#B)`, `[`C`](create.html#C)`, `[`D`](create.html#D)`, `[`E`](create.html#E)`, `[`F`](create.html#F)`, `[`G`](create.html#G)`, `[`H`](create.html#H)`>`

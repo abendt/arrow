@@ -1,9 +1,0 @@
-$dokka.format:jekyll
-$dokka.linkExtension:html
-$dokka.location:arrow.test.generators$toGNat(arrow.recursion.typeclasses.Corecursive((arrow.test.generators.toGNat.T)), kotlin.Int)arrow.test.generators/arrow.recursion.typeclasses.-corecursive/to-g-nat.html
-$dokka.location:arrow.test.generators$toInt(arrow.recursion.typeclasses.Recursive((arrow.test.generators.toInt.T)), arrow.Kind((arrow.test.generators.toInt.T, arrow.core.ForOption)))arrow.test.generators/arrow.recursion.typeclasses.-recursive/to-int.html
-$dokka.location:arrow.test.laws$fix(arrow.Kind((arrow.test.laws.TIF, arrow.test.laws.fix.A)))arrow.test.laws/arrow.-kind/fix.html
-arrow.test
-arrow.test.concurrency
-arrow.test.generators
-arrow.test.laws

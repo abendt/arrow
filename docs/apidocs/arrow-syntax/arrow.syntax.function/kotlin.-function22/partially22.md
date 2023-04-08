@@ -1,9 +1,0 @@
----
-title: partially22 - arrow-syntax
----
-
-[arrow-syntax](../../index.html) / [arrow.syntax.function](../index.html) / [kotlin.Function22](index.html) / [partially22](./partially22.html)
-
-# partially22
-
-`fun <P1, P2, P3, P4, P5, P6, P7, P8, P9, P10, P11, P12, P13, P14, P15, P16, P17, P18, P19, P20, P21, P22, R> ((`[`P1`](partially22.html#P1)`, `[`P2`](partially22.html#P2)`, `[`P3`](partially22.html#P3)`, `[`P4`](partially22.html#P4)`, `[`P5`](partially22.html#P5)`, `[`P6`](partially22.html#P6)`, `[`P7`](partially22.html#P7)`, `[`P8`](partially22.html#P8)`, `[`P9`](partially22.html#P9)`, `[`P10`](partially22.html#P10)`, `[`P11`](partially22.html#P11)`, `[`P12`](partially22.html#P12)`, `[`P13`](partially22.html#P13)`, `[`P14`](partially22.html#P14)`, `[`P15`](partially22.html#P15)`, `[`P16`](partially22.html#P16)`, `[`P17`](partially22.html#P17)`, `[`P18`](partially22.html#P18)`, `[`P19`](partially22.html#P19)`, `[`P20`](partially22.html#P20)`, `[`P21`](partially22.html#P21)`, `[`P22`](partially22.html#P22)`) -> `[`R`](partially22.html#R)`).partially22(p22: `[`P22`](partially22.html#P22)`): (`[`P1`](partially22.html#P1)`, `[`P2`](partially22.html#P2)`, `[`P3`](partially22.html#P3)`, `[`P4`](partially22.html#P4)`, `[`P5`](partially22.html#P5)`, `[`P6`](partially22.html#P6)`, `[`P7`](partially22.html#P7)`, `[`P8`](partially22.html#P8)`, `[`P9`](partially22.html#P9)`, `[`P10`](partially22.html#P10)`, `[`P11`](partially22.html#P11)`, `[`P12`](partially22.html#P12)`, `[`P13`](partially22.html#P13)`, `[`P14`](partially22.html#P14)`, `[`P15`](partially22.html#P15)`, `[`P16`](partially22.html#P16)`, `[`P17`](partially22.html#P17)`, `[`P18`](partially22.html#P18)`, `[`P19`](partially22.html#P19)`, `[`P20`](partially22.html#P20)`, `[`P21`](partially22.html#P21)`) -> `[`R`](partially22.html#R)

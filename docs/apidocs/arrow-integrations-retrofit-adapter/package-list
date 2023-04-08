@@ -1,7 +1,0 @@
-$dokka.format:jekyll
-$dokka.linkExtension:html
-$dokka.location:arrow.integrations.retrofit.adapter$runAsync(retrofit2.Call((arrow.integrations.retrofit.adapter.runAsync.A)), arrow.effects.typeclasses.Async((arrow.integrations.retrofit.adapter.runAsync.F)))arrow.integrations.retrofit.adapter/retrofit2.-call/run-async.html
-$dokka.location:arrow.integrations.retrofit.adapter$runSyncCatch(retrofit2.Call((arrow.integrations.retrofit.adapter.runSyncCatch.A)), arrow.typeclasses.MonadError((arrow.integrations.retrofit.adapter.runSyncCatch.F, kotlin.Throwable)))arrow.integrations.retrofit.adapter/retrofit2.-call/run-sync-catch.html
-$dokka.location:arrow.integrations.retrofit.adapter$runSyncDeferred(retrofit2.Call((arrow.integrations.retrofit.adapter.runSyncDeferred.A)), arrow.effects.typeclasses.MonadDefer((arrow.integrations.retrofit.adapter.runSyncDeferred.F)))arrow.integrations.retrofit.adapter/retrofit2.-call/run-sync-deferred.html
-$dokka.location:arrow.integrations.retrofit.adapter$unwrapBody(retrofit2.Response((arrow.integrations.retrofit.adapter.unwrapBody.R)), arrow.typeclasses.ApplicativeError((arrow.integrations.retrofit.adapter.unwrapBody.F, kotlin.Throwable)))arrow.integrations.retrofit.adapter/retrofit2.-response/unwrap-body.html
-arrow.integrations.retrofit.adapter

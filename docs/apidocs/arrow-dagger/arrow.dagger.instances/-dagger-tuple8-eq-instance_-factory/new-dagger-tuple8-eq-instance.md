@@ -1,9 +1,0 @@
----
-title: DaggerTuple8EqInstance_Factory.newDaggerTuple8EqInstance - arrow-dagger
----
-
-[arrow-dagger](../../index.html) / [arrow.dagger.instances](../index.html) / [DaggerTuple8EqInstance_Factory](index.html) / [newDaggerTuple8EqInstance](./new-dagger-tuple8-eq-instance.html)
-
-# newDaggerTuple8EqInstance
-
-`static fun <A : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, B : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, C : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, D : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, E : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, F : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, G : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, H : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`> newDaggerTuple8EqInstance(eqA: Eq<`[`A`](new-dagger-tuple8-eq-instance.html#A)`>, eqB: Eq<`[`B`](new-dagger-tuple8-eq-instance.html#B)`>, eqC: Eq<`[`C`](new-dagger-tuple8-eq-instance.html#C)`>, eqD: Eq<`[`D`](new-dagger-tuple8-eq-instance.html#D)`>, eqE: Eq<`[`E`](new-dagger-tuple8-eq-instance.html#E)`>, eqF: Eq<`[`F`](new-dagger-tuple8-eq-instance.html#F)`>, eqG: Eq<`[`G`](new-dagger-tuple8-eq-instance.html#G)`>, eqH: Eq<`[`H`](new-dagger-tuple8-eq-instance.html#H)`>): `[`DaggerTuple8EqInstance`](../-dagger-tuple8-eq-instance/index.html)`<`[`A`](new-dagger-tuple8-eq-instance.html#A)`, `[`B`](new-dagger-tuple8-eq-instance.html#B)`, `[`C`](new-dagger-tuple8-eq-instance.html#C)`, `[`D`](new-dagger-tuple8-eq-instance.html#D)`, `[`E`](new-dagger-tuple8-eq-instance.html#E)`, `[`F`](new-dagger-tuple8-eq-instance.html#F)`, `[`G`](new-dagger-tuple8-eq-instance.html#G)`, `[`H`](new-dagger-tuple8-eq-instance.html#H)`>`

@@ -1,7 +1,0 @@
-$dokka.format:jekyll
-$dokka.linkExtension:html
-
-arrow
-arrow.deprecation
-arrow.optics
-io.kindedj

@@ -1,9 +1,0 @@
----
-title: Tuple6Instances_Tuple6EqInstanceFactory.proxyTuple6EqInstance - arrow-dagger
----
-
-[arrow-dagger](../../index.html) / [arrow.dagger.instances](../index.html) / [Tuple6Instances_Tuple6EqInstanceFactory](index.html) / [proxyTuple6EqInstance](./proxy-tuple6-eq-instance.html)
-
-# proxyTuple6EqInstance
-
-`static fun <A : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, B : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, C : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, D : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, E : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, F : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`> proxyTuple6EqInstance(instance: `[`Tuple6Instances`](../-tuple6-instances/index.html)`<`[`A`](proxy-tuple6-eq-instance.html#A)`, `[`B`](proxy-tuple6-eq-instance.html#B)`, `[`C`](proxy-tuple6-eq-instance.html#C)`, `[`D`](proxy-tuple6-eq-instance.html#D)`, `[`E`](proxy-tuple6-eq-instance.html#E)`, `[`F`](proxy-tuple6-eq-instance.html#F)`>, ev: `[`DaggerTuple6EqInstance`](../-dagger-tuple6-eq-instance/index.html)`<`[`A`](proxy-tuple6-eq-instance.html#A)`, `[`B`](proxy-tuple6-eq-instance.html#B)`, `[`C`](proxy-tuple6-eq-instance.html#C)`, `[`D`](proxy-tuple6-eq-instance.html#D)`, `[`E`](proxy-tuple6-eq-instance.html#E)`, `[`F`](proxy-tuple6-eq-instance.html#F)`>): Eq<Tuple6<`[`A`](proxy-tuple6-eq-instance.html#A)`, `[`B`](proxy-tuple6-eq-instance.html#B)`, `[`C`](proxy-tuple6-eq-instance.html#C)`, `[`D`](proxy-tuple6-eq-instance.html#D)`, `[`E`](proxy-tuple6-eq-instance.html#E)`, `[`F`](proxy-tuple6-eq-instance.html#F)`>>`

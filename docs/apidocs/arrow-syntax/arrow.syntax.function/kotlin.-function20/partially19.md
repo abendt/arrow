@@ -1,9 +1,0 @@
----
-title: partially19 - arrow-syntax
----
-
-[arrow-syntax](../../index.html) / [arrow.syntax.function](../index.html) / [kotlin.Function20](index.html) / [partially19](./partially19.html)
-
-# partially19
-
-`fun <P1, P2, P3, P4, P5, P6, P7, P8, P9, P10, P11, P12, P13, P14, P15, P16, P17, P18, P19, P20, R> ((`[`P1`](partially19.html#P1)`, `[`P2`](partially19.html#P2)`, `[`P3`](partially19.html#P3)`, `[`P4`](partially19.html#P4)`, `[`P5`](partially19.html#P5)`, `[`P6`](partially19.html#P6)`, `[`P7`](partially19.html#P7)`, `[`P8`](partially19.html#P8)`, `[`P9`](partially19.html#P9)`, `[`P10`](partially19.html#P10)`, `[`P11`](partially19.html#P11)`, `[`P12`](partially19.html#P12)`, `[`P13`](partially19.html#P13)`, `[`P14`](partially19.html#P14)`, `[`P15`](partially19.html#P15)`, `[`P16`](partially19.html#P16)`, `[`P17`](partially19.html#P17)`, `[`P18`](partially19.html#P18)`, `[`P19`](partially19.html#P19)`, `[`P20`](partially19.html#P20)`) -> `[`R`](partially19.html#R)`).partially19(p19: `[`P19`](partially19.html#P19)`): (`[`P1`](partially19.html#P1)`, `[`P2`](partially19.html#P2)`, `[`P3`](partially19.html#P3)`, `[`P4`](partially19.html#P4)`, `[`P5`](partially19.html#P5)`, `[`P6`](partially19.html#P6)`, `[`P7`](partially19.html#P7)`, `[`P8`](partially19.html#P8)`, `[`P9`](partially19.html#P9)`, `[`P10`](partially19.html#P10)`, `[`P11`](partially19.html#P11)`, `[`P12`](partially19.html#P12)`, `[`P13`](partially19.html#P13)`, `[`P14`](partially19.html#P14)`, `[`P15`](partially19.html#P15)`, `[`P16`](partially19.html#P16)`, `[`P17`](partially19.html#P17)`, `[`P18`](partially19.html#P18)`, `[`P20`](partially19.html#P20)`) -> `[`R`](partially19.html#R)

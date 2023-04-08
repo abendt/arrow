@@ -1,9 +1,0 @@
----
-title: Tuple7Instances_Tuple7EqInstanceFactory.provideInstance - arrow-dagger
----
-
-[arrow-dagger](../../index.html) / [arrow.dagger.instances](../index.html) / [Tuple7Instances_Tuple7EqInstanceFactory](index.html) / [provideInstance](./provide-instance.html)
-
-# provideInstance
-
-`static fun <A : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, B : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, C : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, D : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, E : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, F : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, G : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`> provideInstance(module: `[`Tuple7Instances`](../-tuple7-instances/index.html)`<`[`A`](provide-instance.html#A)`, `[`B`](provide-instance.html#B)`, `[`C`](provide-instance.html#C)`, `[`D`](provide-instance.html#D)`, `[`E`](provide-instance.html#E)`, `[`F`](provide-instance.html#F)`, `[`G`](provide-instance.html#G)`>, evProvider: Provider<`[`DaggerTuple7EqInstance`](../-dagger-tuple7-eq-instance/index.html)`<`[`A`](provide-instance.html#A)`, `[`B`](provide-instance.html#B)`, `[`C`](provide-instance.html#C)`, `[`D`](provide-instance.html#D)`, `[`E`](provide-instance.html#E)`, `[`F`](provide-instance.html#F)`, `[`G`](provide-instance.html#G)`>>): Eq<Tuple7<`[`A`](provide-instance.html#A)`, `[`B`](provide-instance.html#B)`, `[`C`](provide-instance.html#C)`, `[`D`](provide-instance.html#D)`, `[`E`](provide-instance.html#E)`, `[`F`](provide-instance.html#F)`, `[`G`](provide-instance.html#G)`>>`

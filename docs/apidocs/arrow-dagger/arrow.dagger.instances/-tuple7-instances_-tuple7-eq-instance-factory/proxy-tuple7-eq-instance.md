@@ -1,9 +1,0 @@
----
-title: Tuple7Instances_Tuple7EqInstanceFactory.proxyTuple7EqInstance - arrow-dagger
----
-
-[arrow-dagger](../../index.html) / [arrow.dagger.instances](../index.html) / [Tuple7Instances_Tuple7EqInstanceFactory](index.html) / [proxyTuple7EqInstance](./proxy-tuple7-eq-instance.html)
-
-# proxyTuple7EqInstance
-
-`static fun <A : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, B : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, C : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, D : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, E : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, F : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, G : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`> proxyTuple7EqInstance(instance: `[`Tuple7Instances`](../-tuple7-instances/index.html)`<`[`A`](proxy-tuple7-eq-instance.html#A)`, `[`B`](proxy-tuple7-eq-instance.html#B)`, `[`C`](proxy-tuple7-eq-instance.html#C)`, `[`D`](proxy-tuple7-eq-instance.html#D)`, `[`E`](proxy-tuple7-eq-instance.html#E)`, `[`F`](proxy-tuple7-eq-instance.html#F)`, `[`G`](proxy-tuple7-eq-instance.html#G)`>, ev: `[`DaggerTuple7EqInstance`](../-dagger-tuple7-eq-instance/index.html)`<`[`A`](proxy-tuple7-eq-instance.html#A)`, `[`B`](proxy-tuple7-eq-instance.html#B)`, `[`C`](proxy-tuple7-eq-instance.html#C)`, `[`D`](proxy-tuple7-eq-instance.html#D)`, `[`E`](proxy-tuple7-eq-instance.html#E)`, `[`F`](proxy-tuple7-eq-instance.html#F)`, `[`G`](proxy-tuple7-eq-instance.html#G)`>): Eq<Tuple7<`[`A`](proxy-tuple7-eq-instance.html#A)`, `[`B`](proxy-tuple7-eq-instance.html#B)`, `[`C`](proxy-tuple7-eq-instance.html#C)`, `[`D`](proxy-tuple7-eq-instance.html#D)`, `[`E`](proxy-tuple7-eq-instance.html#E)`, `[`F`](proxy-tuple7-eq-instance.html#F)`, `[`G`](proxy-tuple7-eq-instance.html#G)`>>`

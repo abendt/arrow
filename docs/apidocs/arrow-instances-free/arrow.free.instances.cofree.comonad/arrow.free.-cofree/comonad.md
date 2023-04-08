@@ -1,9 +1,0 @@
----
-title: arrow.free.instances.cofree.comonad.arrow.free.Cofree.comonad - arrow-instances-free
----
-
-[arrow-instances-free](../../index.html) / [arrow.free.instances.cofree.comonad](../index.html) / [arrow.free.Cofree](index.html) / [comonad](./comonad.html)
-
-# comonad
-
-`fun <S> Cofree.Companion.comonad(): `[`CofreeComonadInstance`](../../arrow.free.instances/-cofree-comonad-instance/index.html)`<`[`S`](comonad.html#S)`>`

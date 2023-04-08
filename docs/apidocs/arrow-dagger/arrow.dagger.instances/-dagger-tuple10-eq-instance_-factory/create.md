@@ -1,9 +1,0 @@
----
-title: DaggerTuple10EqInstance_Factory.create - arrow-dagger
----
-
-[arrow-dagger](../../index.html) / [arrow.dagger.instances](../index.html) / [DaggerTuple10EqInstance_Factory](index.html) / [create](./create.html)
-
-# create
-
-`static fun <A : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, B : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, C : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, D : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, E : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, F : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, G : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, H : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, I : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`, J : `[`Any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html)`> create(eqAProvider: Provider<Eq<`[`A`](create.html#A)`>>, eqBProvider: Provider<Eq<`[`B`](create.html#B)`>>, eqCProvider: Provider<Eq<`[`C`](create.html#C)`>>, eqDProvider: Provider<Eq<`[`D`](create.html#D)`>>, eqEProvider: Provider<Eq<`[`E`](create.html#E)`>>, eqFProvider: Provider<Eq<`[`F`](create.html#F)`>>, eqGProvider: Provider<Eq<`[`G`](create.html#G)`>>, eqHProvider: Provider<Eq<`[`H`](create.html#H)`>>, eqIProvider: Provider<Eq<`[`I`](create.html#I)`>>, eqJProvider: Provider<Eq<`[`J`](create.html#J)`>>): `[`DaggerTuple10EqInstance_Factory`](index.html)`<`[`A`](create.html#A)`, `[`B`](create.html#B)`, `[`C`](create.html#C)`, `[`D`](create.html#D)`, `[`E`](create.html#E)`, `[`F`](create.html#F)`, `[`G`](create.html#G)`, `[`H`](create.html#H)`, `[`I`](create.html#I)`, `[`J`](create.html#J)`>`
